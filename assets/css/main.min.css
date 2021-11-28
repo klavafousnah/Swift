@@ -277,45 +277,9 @@ h1,
 
 h2,
 .header-two {
-  color: #E87511;
+  color: #006FBF;
   font-size: 1rem;
   line-height: 1.5rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-h3,
-.header-three {
-  color: #565A5C;
-  font-size: 0.8rem;
-  line-height: 1.2rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-h4,
-.header-four {
-  color: #565A5C;
-  font-size: 0.8rem;
-  line-height: 1.2rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-h5,
-.header-five {
-  color: #565A5C;
-  font-size: 0.8rem;
-  line-height: 1.2rem;
-  font-weight: 700;
-  letter-spacing: 0.2px;
-}
-
-h6,
-.header-six {
-  color: #565A5C;
-  font-size: 0.8rem;
-  line-height: 1.2rem;
   font-weight: 700;
   letter-spacing: 0.2px;
 }
@@ -1941,46 +1905,19 @@ body {
 
 /*====== Typography =========*/
 h1 {
-  color: #FF5257;
+  color: #006FBF;
   margin-top: 30px;
   margin-bottom: 30px;
   font-weight: 400;
 }
 
 h2 {
-  color: #017D79;
+  color: #006FBF;
   margin-top: 30px;
   margin-bottom: 30px;
   font-weight: 400;
 }
 
-h3 {
-  color: #000000;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 400;
-}
-
-h4 {
-  color: #000000;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 400;
-}
-
-h5 {
-  color: #000000;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 700;
-}
-
-h6 {
-  color: #000000;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 700;
-}
 
 p,
 ol,
